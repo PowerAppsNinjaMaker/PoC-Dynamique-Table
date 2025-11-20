@@ -1,0 +1,278 @@
+[
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 3,
+    "fgi_val": "Logement neuf"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 4,
+    "fgi_val": "Tertiaire neuf"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 5,
+    "fgi_val": "Education neuf"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 6,
+    "fgi_val": "Hotellerie neuf"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 7,
+    "fgi_val": "Santé neuf"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 8,
+    "fgi_val": "Industrie neuf"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 9,
+    "fgi_val": "Justice neuf"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 10,
+    "fgi_val": "Gare neuf"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 11,
+    "fgi_val": "Autre neuf"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 12,
+    "fgi_val": "Logements RSO"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 13,
+    "fgi_val": "Logement réha"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 14,
+    "fgi_val": "Tertiaire réha"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 15,
+    "fgi_val": "Education réha"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 16,
+    "fgi_val": "Hotellerie réha"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 17,
+    "fgi_val": "Santé réha"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 18,
+    "fgi_val": "Industrie réha"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 19,
+    "fgi_val": "Justice réha"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 20,
+    "fgi_val": "Gare réha"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 21,
+    "fgi_val": "Autre réha"
+  },
+  {
+    "fgi_json": "{\"indent\":15,\"formula\":\"sumPlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 22,
+    "fgi_val": "Non-bâtimentaire "
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 1&2",
+    "fgi_order": 1,
+    "fgi_val": "% réduction en km de l'usage des véhicules d'entreprise vs 2021 (crédit mobilité, télétravail)"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 1&2",
+    "fgi_order": 2,
+    "fgi_val": "% véhicules d'entreprise 100% électriques"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 1&2",
+    "fgi_order": 3,
+    "fgi_val": "% véhicules d'entreprise hybrides rechargeables"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 1&2",
+    "fgi_order": 4,
+    "fgi_val": "% réduction des carburants chantier vs 2021 (logistique et éco-conduite)"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 1&2",
+    "fgi_order": 5,
+    "fgi_val": "% engins électriques"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 1&2",
+    "fgi_order": 6,
+    "fgi_val": "% biocarburants dans la consommation totale de carburants sur chantier"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 1&2",
+    "fgi_order": 7,
+    "fgi_val": "% de bungalows équipés de systèmes de monitoring et pilotés"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 1&2",
+    "fgi_order": 8,
+    "fgi_val": "% bases-vie premium ou bois (i.e. isolées et équipées de pompe à chaleur)"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 1&2",
+    "fgi_order": 9,
+    "fgi_val": "% électricité verte (achat de garanties d'origine et autoconsommation)"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 1&2",
+    "fgi_order": 10,
+    "fgi_val": "% de groupes électrogènes remplacés par des Powerbanks"
+  },
+  {
+    "fgi_json": "{\"type\":\"%\"}",
+    "fgi_name": "Scopes 3a",
+    "fgi_order": 1,
+    "fgi_val": "% PC liée à des projets bois"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 3a",
+    "fgi_order": 2,
+    "fgi_val": "% PC en developpement immobilier ou conception/réalisation"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 3a",
+    "fgi_order": 3,
+    "fgi_val": "% PC liée à des projets à haut niveau de recyclé et de réemploi"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 3a",
+    "fgi_order": 4,
+    "fgi_val": "% PC liée à des projets à haut niveau d'intégration de matériaux bio/géosourcés"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 3a",
+    "fgi_order": 5,
+    "fgi_val": "Intensité carbone du béton (kgCO2e/m3)"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 3a",
+    "fgi_order": 6,
+    "fgi_val": "% réduction des émissions liées aux déchets (réduction & valorisation)"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scopes 3a",
+    "fgi_order": 7,
+    "fgi_val": "% PC lié à la rénovation"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scope 3b énergie",
+    "fgi_order": 1,
+    "fgi_val": "% de réduction de l'intensité énergétique des bâtiments vs 2021 (kWh/m2)"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scope 3b énergie",
+    "fgi_order": 2,
+    "fgi_val": "Mix énergétique (% énergie finale)"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scope 3b énergie",
+    "fgi_order": 3,
+    "fgi_val": "Gaz naturel"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scope 3b énergie",
+    "fgi_order": 4,
+    "fgi_val": "Electricité"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scope 3b énergie",
+    "fgi_order": 5,
+    "fgi_val": "Réseau de chaleur"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scope 3b énergie",
+    "fgi_order": 6,
+    "fgi_val": "Biomasse"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Scope 3b énergie",
+    "fgi_order": 7,
+    "fgi_val": "Autres renouvelables (solaire thermique, géothermie, etc)"
+  },
+  {
+    "fgi_json": null,
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 2,
+    "fgi_val": "Chiffre d'affaires [million EUR]"
+  },
+  {
+    "fgi_json": "{\"calc\":\"PlanAffaireChildren\"}",
+    "fgi_name": "Plan d'affaires",
+    "fgi_order": 1,
+    "fgi_val": "Prise de commandes [million EUR]"
+  }
+]
